@@ -1,0 +1,4 @@
+1) Cloudfront
+2) S3
+3) API Gateway
+4) I am
